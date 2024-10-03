@@ -1,6 +1,6 @@
 @extends("layouts.app")
 
-@section("title", "Home Page - PFA")
+@section("title", "Home Page ksdncskj - PFA")
 
 @section('content')
 
